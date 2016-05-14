@@ -1,0 +1,21 @@
+# Site settings
+title: DePippo Blog
+header-img: img/home-bg.png
+email: jdepippo@gmail.com
+copyright_name: depippo
+description: > # this means to ignore newlines until "baseurl:"
+  Chronicling my adventures in code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: depippo33
+github_username:  depippo
+learn_profile: depippo
+email_username: jdepippo@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
