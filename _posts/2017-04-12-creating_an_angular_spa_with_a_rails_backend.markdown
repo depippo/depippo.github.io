@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating an Angular SPA with a Rails Backend"
-date:   2017-04-12 01:54:20 +0000
+date:   2017-04-11 21:54:21 -0400
 ---
 
 
