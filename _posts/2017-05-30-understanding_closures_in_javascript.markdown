@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Understanding closures in Javascript
-date:   2017-05-30 15:18:10 +0000
+date:   2017-05-30 11:18:11 -0400
 ---
 
 
